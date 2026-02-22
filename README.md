@@ -12,9 +12,9 @@ I’m a IT student, currently studying at Informatics College Pokhara. I'm from 
   
 ## My Skills
 - 🌐 **Web Development**: HTML, CSS, JavaScript etc.
-- 🖥️ **Software Development**: Python, Java
+- 🖥️ **Programming**: Python, Java
 - 🌱 **Version Control**: Git, GitHub, GitLab
-- 💻 **Operating Systems**: Linux, Windows, macOS
+- 💻 **Operating Systems**: Linux, Windows
 
 I’m always learning and looking for opportunities to improve, so I try to keep up with new technologies and frameworks.
 
